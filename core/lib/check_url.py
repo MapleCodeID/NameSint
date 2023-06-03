@@ -9,7 +9,7 @@ def check(url) -> bool:
             url (str): url that needs to be checked 
 
         Returns:
-            bool: True if the responds of the request else False
+            bool: True if the responds of the request is good else False
         """
 
         try:
