@@ -1,0 +1,158 @@
+[
+  {
+    "site_name": "About.me",
+    "url": "https://about.me/username"
+  },
+  {
+    "site_name": "Blogger",
+    "url": "https://username.blogspot.com"
+  },
+  {
+    "site_name": "Crunchyroll",
+    "url": "https://www.crunchyroll.com/user/username"
+  },
+  {
+    "site_name": "DeviantArt",
+    "url": "https://username.deviantart.com"
+  },
+  {
+    "site_name": "Facebook",
+    "url": "https://www.facebook.com/username"
+  },
+  {
+    "site_name": "Fortnite Tracker",
+    "url": "https://fortnitetracker.com/profile/all/username"
+  },
+  {
+    "site_name": "Geocaching",
+    "url": "https://www.geocaching.com/p/default.aspx?u=username"
+  },
+  {
+    "site_name": "GitHub",
+    "url": "https://github.com/username"
+  },
+  {
+    "site_name": "GitLab",
+    "url": "https://gitlab.com/username"
+  },
+  {
+    "site_name": "Gravatar",
+    "url": "http://en.gravatar.com/username"
+  },
+  {
+    "site_name": "Imgur",
+    "url": "https://imgur.com/user/username"
+  },
+  {
+    "site_name": "Instagram",
+    "url": "https://www.instagram.com/username"
+  },
+  {
+    "site_name": "Lichess",
+    "url": "https://lichess.org/@/username"
+  },
+  {
+    "site_name": "MeetMe",
+    "url": "https://www.meetme.com/username"
+  },
+  {
+    "site_name": "NameMC",
+    "url": "https://fr.namemc.com/search?q=username"
+  },
+  {
+    "site_name": "OnlyFans",
+    "url": "https://onlyfans.com/username"
+  },
+  {
+    "site_name": "Pastebin",
+    "url": "https://pastebin.com/u/username"
+  },
+  {
+    "site_name": "Pinterest",
+    "url": "https://pinterest.com/username"
+  },
+  {
+    "site_name": "Pokemon Showdown",
+    "url": "https://pokemonshowdown.com/users/norzeusername"
+  },
+  {
+    "site_name": "Pornhub",
+    "url": "https://www.pornhub.com/users/username"
+  },
+  {
+    "site_name": "PyPI",
+    "url": "https://pypi.org/user/username"
+  },
+  {
+    "site_name": "Reddit",
+    "url": "https://www.reddit.com/user/username"
+  },
+  {
+    "site_name": "Roblox",
+    "url": "https://www.roblox.com/user.aspx?username=username"
+  },
+  {
+    "site_name": "Smule",
+    "url": "https://www.smule.com/username"
+  },
+  {
+    "site_name": "Snapchat",
+    "url": "https://www.snapchat.com/add/username"
+  },
+  {
+    "site_name": "Spotify",
+    "url": "https://open.spotify.com/user/username"
+  },
+  {
+    "site_name": "Steam",
+    "url": "https://steamcommunity.com/id/username"
+  },
+  {
+    "site_name": "Telegram",
+    "url": "https://t.me/username"
+  },
+  {
+    "site_name": "Tenor",
+    "url": "https://tenor.com/users/username"
+  },
+  {
+    "site_name": "Thingiverse",
+    "url": "https://www.thingiverse.com/username/designs"
+  },
+  {
+    "site_name": "TikTok",
+    "url": "https://tiktok.com/@username"
+  },
+  {
+    "site_name": "Twitch",
+    "url": "https://www.twitch.tv/username"
+  },
+  {
+    "site_name": "Twitter",
+    "url": "https://www.twitter.com/username"
+  },
+  {
+    "site_name": "Vimeo",
+    "url": "https://vimeo.com/username"
+  },
+  {
+    "site_name": "Wattpad",
+    "url": "https://www.wattpad.com/user/username"
+  },
+  {
+    "site_name": "WordPress",
+    "url": "https://username.wordpress.com/"
+  },
+  {
+    "site_name": "YouPic",
+    "url": "https://youpic.com/photographer/username"
+  },
+  {
+    "site_name": "YouTube",
+    "url": "https://www.youtube.com/c/username"
+  },
+  {
+    "site_name": "osu!",
+    "url": "https://osu.ppy.sh/users/username"
+  }
+]
