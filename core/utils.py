@@ -28,7 +28,7 @@ Color rgb example (205,102,0) => Functional rgb color in python scripts example 
 WHITE = "\033[38;2;255;255;255m"
 RED = "\033[38;2;255;64;64m"
 GREEN = "\033[38;2;84;255;159m"
-
+YELLOW = "\033[38;2;227;207;87m"
 
 # Banner used
 banner = f"""
