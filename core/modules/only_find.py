@@ -18,7 +18,7 @@ class On:
             with open("data\data.json", "r") as file:
                 data = json.load(file)
 
-            print(f"[{utils.GREEN}*{utils.WHITE}] Target name : {utils.GREEN}{username}{utils.WHITE}\n")
+            print(f"[{utils.YELLOW}*{utils.WHITE}] Target name : {utils.YELLOW}{username}{utils.WHITE}\n")
 
             numbr = 0
             start = time.time()
@@ -28,9 +28,10 @@ class On:
 
                 if check_url.check(url):
                     numbr += 1
-                    print(f"[{utils.GREEN}!{utils.WHITE}] {utils.GREEN}{entry['site_name']}:{utils.WHITE} {url}")
+                    print(f"[{utils.GREEN}!{utils.WHITE}] {entry['site_name']} ({utils.YELLOW}{url}{utils.WHITE})")
 
-            print(f"\n[{utils.GREEN}*{utils.WHITE}] Search finish with {utils.GREEN}{numbr}{utils.WHITE} results in {round(time.time() - start, 1)}s !")
+            print(f"\n[{utils.GREEN}:){utils.WHITE}] Finish ! ({utils.YELLOW}{numbr} results{utils.WHITE}) Time : ({utils.YELLOW}{round(time.time() - start, 1)}s{utils.WHITE})")
+
 
         except Exception as e:
             print(e)
