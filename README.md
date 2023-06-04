@@ -21,7 +21,7 @@
 
 📚 Example :
 ```
-python namesint.py {--search, --only_find} user
+python namesint.py {--search, --positives} user
 ```
 
 📚Result :
