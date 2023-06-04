@@ -55,3 +55,6 @@ def guette_moi_ça(url):
     
     elif response.status_code == 504:
         return "504 ❌"
+
+    elif response.status_code == 401:
+        return "401 ❌"
