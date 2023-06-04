@@ -25,6 +25,8 @@ python namesint.py {--search, --only_find} user
 ```
 
 📚Result :
+
+
 ![04-06-23](https://github.com/N0rz3/NameSint/assets/123885505/57dd781f-9c15-40d9-864f-6240b4f1ffcc)
 
 
