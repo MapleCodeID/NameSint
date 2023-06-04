@@ -24,6 +24,10 @@
 python namesint.py {--search, --only_find} user
 ```
 
+📚Result :
+
+
+![result_namesint](https://github.com/N0rz3/NameSint/assets/123885505/4ec96f5c-7174-4c07-a042-75334f6863af)
 
 
 ## **✔️/❌ Rules**
