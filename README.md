@@ -24,11 +24,6 @@
 python namesint.py {--search, --only_find} user
 ```
 
-📚 Result :
-
-
-![namesint](https://github.com/N0rz3/N0rz3/assets/123885505/27e8f5fc-60be-485b-a67a-bbd7ced46ec9)
-
 
 
 ## **✔️/❌ Rules**
