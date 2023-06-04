@@ -60,3 +60,5 @@ Subscribe to my GitHub account for more tools and programs ! 😉
 
 - 👨‍💻 Source code : me 🤗
 - ✏️ Inspiration : [Sherlock](https://github.com/sherlock-project/sherlock) by [sherlock-project](https://github.com/sherlock-project)
+
+**The tool has not a lot of website in the data base that's why I recommend better tools like: [Sherlock](https://github.com/sherlock-project/sherlock) or [BlackBird](https://github.com/p1ngul1n0/blackbird)**
