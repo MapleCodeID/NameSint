@@ -27,7 +27,7 @@ python namesint.py {--search, --only_find} user
 📚Result :
 
 
-![namesint](https://github.com/N0rz3/NameSint/assets/123885505/c79a6e20-b631-4b02-b28a-de84ca6ff5f6)
+![result](https://github.com/N0rz3/NameSint/assets/123885505/ddce3b35-723e-4166-a72d-3cfa31cac707)
 
 
 
