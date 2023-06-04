@@ -28,10 +28,10 @@ class User:
 
                 if check_url.check(url):
                     numbr += 1
-                    print(f"[{utils.GREEN}!{utils.WHITE}] {entry['site_name']} ({utils.YELLOW}{url}{utils.WHITE})")
+                    print(f"[{utils.GREEN}!{utils.WHITE}] {entry['site_name']} ({utils.YELLOW}{url}{utils.WHITE}) [{check_url.gette_moi_ça(url)}]")
 
                 else:
-                    print(f"[{utils.RED}x{utils.WHITE}] {entry['site_name']} ({utils.YELLOW}{url}{utils.WHITE})")
+                    print(f"[{utils.RED}x{utils.WHITE}] {entry['site_name']} ({utils.YELLOW}{url}{utils.WHITE}) [{check_url.gette_moi_ça(url)}]")
 
 
             print(f"\n[{utils.GREEN}:){utils.WHITE}] Finish ! ({utils.YELLOW}{numbr} results{utils.WHITE}) Time : ({utils.YELLOW}{round(time.time() - start, 1)}s{utils.WHITE})")
