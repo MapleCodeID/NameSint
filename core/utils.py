@@ -34,7 +34,7 @@ BLUE = "\033[38;2;0;191;255m"
 
 # Banner used
 banner = f"""
-{utils.WHITE}[{utils.GREEN}v0.0.1{utils.WHITE}]
+{utils.WHITE}[{utils.GREEN}v0.0.3{utils.WHITE}]
 
                                       {utils.RED}_____{utils.WHITE}       {utils.RED}_____{utils.WHITE}
 {utils.RED}_____________ _______ __________________{utils.WHITE}(_){utils.RED}________  {utils.WHITE}/_
