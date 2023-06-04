@@ -25,7 +25,7 @@ def check(url) -> bool:
             return False
     
 
-def gette_moi_ça(url):
+def guette_moi_ça(url):
     
     response = requests.get(url)
 
