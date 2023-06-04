@@ -59,4 +59,4 @@ Subscribe to my GitHub account for more tools and programs ! 😉
 ## **💳 Credits**
 
 - 👨‍💻 Source code : me 🤗
-- ✏️ Inspiration : [Sherlock](https://github.com/sherlock-project/sherlock)
+- ✏️ Inspiration : [Sherlock](https://github.com/sherlock-project/sherlock) by [sherlock-project](https://github.com/sherlock-project)
