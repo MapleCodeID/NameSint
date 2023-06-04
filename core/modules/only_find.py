@@ -18,7 +18,7 @@ class On:
             with open("data\data.json", "r") as file:
                 data = json.load(file)
 
-            print(f"[{utils.YELLOW}*{utils.WHITE}] Target name : {utils.YELLOW}{username}{utils.WHITE}\n")
+            print(f"[{utils.YELLOW}🕵️‍♂️{utils.WHITE}] Target name : {utils.YELLOW}{username}{utils.WHITE}\n")
 
             numbr = 0
             start = time.time()
