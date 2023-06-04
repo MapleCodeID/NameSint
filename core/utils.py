@@ -39,7 +39,8 @@ banner = f"""
 {utils.RED}__{utils.WHITE}  __ \  __ `/_  __ `__ \  _ \_  ___/_  /__  __ \  __/
 {utils.RED}_{utils.WHITE}  / / / /_/ /_  / / / / /  __/(__  )_  / _  / / / /_  
 /_/ /_/\__,_/ /_/ /_/ /_/\___//____/ /_/  /_/ /_/\__/ 
-                                                       
+ 
+        Data-Base with 39 website 💖
 
             {text}                                        
         {__github__}       
