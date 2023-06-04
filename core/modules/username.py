@@ -34,7 +34,7 @@ class User:
                     print(f"[{utils.RED}x{utils.WHITE}] {utils.RED}{entry['site_name']}:{utils.WHITE} {url}")
 
 
-            print(f"\n[{utils.GREEN}*{utils.WHITE}] Search finish with {utils.GREEN}{numbr}{utils.WHITE} results in {round(time.time() - start, 1)}s !")
+            print(f"\n[{utils.RED}!{utils.WHITE}] Finish ! {utils.GREEN}{numbr}{utils.WHITE} results in {round(time.time() - start, 1)}s !")
 
         except Exception as e:
             print(e)
