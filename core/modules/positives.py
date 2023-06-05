@@ -4,7 +4,7 @@ import json
 import time
 import aiohttp
 
-from lib import check_url
+from LIB import check_url
 
 
 class Po:
