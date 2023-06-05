@@ -32,6 +32,8 @@ python namesint.py {--search, --positives} user
 
 
 
+__Async scraping 😈 (save more time)__
+
 
 ## **✔️/❌ Rules**
 
