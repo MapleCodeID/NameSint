@@ -44,12 +44,13 @@ Usage: python namesint.py [-h] {--search, --positives} ...
 Commands to use the 2 main functions:
   -s, --search    <name / username>      Find all target accounts
   -p, --positives <name / username>      Show positives accounts
-
+  
+others commands:
+  -v, --version       displays the version of the tool
+  -ns, --name_site    lists all sites
 
 Options:
 -h, --help          show this help message and exit
--v, --version       displays the version of the tool
--ns, --name_site    lists all sites
 ```
 
 
